@@ -1,2 +1,3 @@
 # Formatron5000
-Movie File Format Conversions
+This repository aims to provide movie file format conversions. 
+For this project, Github Copilot is used. 
